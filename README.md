@@ -18,7 +18,8 @@ SumNotes is a mobile note-taking application designed to help users create, orga
 - Pin and unpin important notes  
 - View deleted notes in history  
 - Scrollable note lists for easy navigation  
-- Responsive mobile interface  
+- Responsive mobile interface
+- AI Summarizer per Notes
 - Optional dark mode support  
 
 ---
@@ -27,7 +28,7 @@ SumNotes is a mobile note-taking application designed to help users create, orga
 - **Frontend:** React Native, Expo  
 - **Backend:** Python, Flask  
 - **Database:** SQLite  
-- **APIs & Libraries:** Hugging Face Transformers (optional AI features), SpaCy (optional NLP features)  
+- **APIs & Libraries:** Hugging Face Transformers, SpaCy
 - **UI Components:** React Native Elements, Vector Icons  
 
 ---
